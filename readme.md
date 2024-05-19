@@ -39,4 +39,4 @@ A Netflix-style app, where you can centralize different podcast episodes separat
 
 #### architeture draw
 
-![architeture](./architeture.png)
+![architeture](./docs/architeture.png)
